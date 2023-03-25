@@ -1,0 +1,6 @@
+id=spoof-spl
+name=Spoof System Security Patch Level
+version=v1.0
+versionCode=10
+author=MoetaYuko
+description=Replace system security patch level with the vendor one
